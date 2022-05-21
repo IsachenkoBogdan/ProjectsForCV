@@ -2,7 +2,7 @@ import sqlite3
 
 from aiogram import Bot, Dispatcher
 
-TOKEN = '5379183801:AAGc1Li3ATmejd0gFAwi0NkEUbpaXo8zZHo'
+TOKEN = 'There was my bot token, but it is secret information'
 
 START_TEXT = 'Привет, {}! Этот Бот поможет тебе скачивать видео или аудио из Youtube. ' \
              'Это работает автоматически, ничего не нужно делать. ' \
